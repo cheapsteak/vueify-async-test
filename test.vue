@@ -2,7 +2,7 @@
   <div>asdf</div>
 </template>
 
-<script lang="es6">
+<script lang="es">
 export default {
   methods: {
     foo: async function () {
